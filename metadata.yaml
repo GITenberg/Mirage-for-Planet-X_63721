@@ -1,0 +1,30 @@
+_repo: Mirage-for-Planet-X_63721
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mullen, Stanley
+    birthdate: 1911
+    deathdate: 1974
+    gutenberg_agent_id: '35156'
+    url: http://www.gutenberg.org/2009/agents/35156
+description: ''
+gutenberg_issued: '2020-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63721'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Brothers -- Fiction'
+- !lcsh 'Auctions -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Inventions -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Criminals -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- GITenberg
+title: Mirage for Planet X
+url: http://www.gutenberg.org/ebooks/63721
